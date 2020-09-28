@@ -8,6 +8,6 @@ So, go ahead, clone this repo, and show us what you can do 😎
 
 
 ### Ideas / To do:
-* Better design.
+* Better design (Currently the website is just an HTML page and the design is not ideal at all).
 * Automating adding users.
 * Adding link to certificates for finished courses.
