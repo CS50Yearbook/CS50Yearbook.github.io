@@ -1,4 +1,4 @@
-# CS50 Yearbook
+# CS50 Yearbook 🥳
 
 A GitHub Pages website that allows CS50 students from all over the world to record their participation in its courses.
 
