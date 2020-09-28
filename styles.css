@@ -1,0 +1,42 @@
+body{
+    font-size: small;
+}
+.row{
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+.card{
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.card-body{
+    padding-left:0;
+    padding-right:0;
+}
+ul{
+    list-style: none;
+    padding-left: 0;
+    padding-bottom: 13px;
+}
+.box{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.card-title{
+    font-size: 1.8rem;
+    padding-bottom: 13px;
+}
+a{
+    color:darkgrey
+}
+a:hover{
+    color:crimson;
+}
+.navbar-brand{
+    margin-left: auto;
+    margin-right: auto;
+}
